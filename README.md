@@ -50,13 +50,6 @@ A simple Android Expense Tracker application built using:
 
 
 
-\## Screenshots
-
-
-
-(Add screenshots here later)
-
-
 
 \## Author
 
