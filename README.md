@@ -50,12 +50,33 @@ A simple Android Expense Tracker application built using:
 
 
 
+\## 📱 App Screenshots
+
+
+
+\### 🏠 Homepage
+
+!\[Homepage](screenshots/1000092436.png)
+
+
+
+\### 📊 Dashboard
+
+!\[Dashboard](screenshots/1000092428.png)
+
+
+
+\### 👤 Profile
+
+!\[Profile](screenshots/1000092437.png)
+
+
+
+
 
 \## Author
 
 
 
 Atharav Lokhande
-
-
 
